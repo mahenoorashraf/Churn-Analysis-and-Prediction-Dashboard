@@ -94,7 +94,8 @@ churn-analysis-dashboard/
 └── README.md                      # Project documentation
 
 📁 Output
-<img width="929" height="524" alt="image" src="https://github.com/user-attachments/assets/226f6760-6137-4436-a8a4-22635bda67d6" />
-<img width="910" height="687" alt="image" src="https://github.com/user-attachments/assets/05d82225-f08b-4b6a-bb3a-988c6e39067b" />
+
+<img width="1278" height="713" alt="image" src="https://github.com/user-attachments/assets/c854e160-4061-4227-ab6f-8324151c53bc" />
+ <img width="910" height="687" alt="image" src="https://github.com/user-attachments/assets/05d82225-f08b-4b6a-bb3a-988c6e39067b" />
 <img width="1296" height="729" alt="image" src="https://github.com/user-attachments/assets/98d56e40-f8db-4c8f-bfc1-985dd5ff6d6c" />
 
